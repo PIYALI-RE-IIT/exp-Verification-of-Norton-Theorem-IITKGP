@@ -1,8 +1,9 @@
 ## Introduction
 
 <div align="center">
-<img src="experiment/images/iitkgp.png" width="10%">
+<img src="images/iitkgp.png" width="10%">
 </div>
+
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
