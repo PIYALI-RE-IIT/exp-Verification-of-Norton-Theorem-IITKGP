@@ -1,5 +1,4 @@
 ### Theory
-<div>
 A linear active network consisting of independent and(or) dependent voltage and current sources and linear bilateral network elements 
 									can be replaced by an equivalent circuit consisting of current sources in parallel with the resistance, the current source being the short 
 									circuited current across the load terminal and resistance being the internal resistance of the source network looking through the open 
@@ -11,10 +10,11 @@ A linear active network consisting of independent and(or) dependent voltage and 
 									  <img alt="" src="./image/pic1.jpg" style="width:400px;height:350px;">
 									  <figcaption>[Fig 1: Circuit with source V<sub>S</sub> and Load R<sub>L</sub>]</figcaption>
 									</figure>
+									
 									<figure style="text-align:center">
-							  <img alt="" src="./image/pic2.jpg" style="width:400px;height:350px;">
-							  <figcaption>[Fig 2: Circuit with <b>R<sub>L</sub></b> shorted]</figcaption>
-							</figure>
+									  <img alt="" src="./image/pic2.jpg" style="width:400px;height:350px;">
+									  <figcaption>[Fig 2: Circuit with <b>R<sub>L</sub></b> shorted]</figcaption>
+									</figure>
 									  
 									<p>Obviously, in Fig 2;
 										\begin{align}
@@ -22,7 +22,7 @@ A linear active network consisting of independent and(or) dependent voltage and 
 										I_{s/c} & = I * \frac{R_3}{R_3 + R_2}
 										\end{align}
 										<br>
-										Next, the short circuit is removed and the independent source is  deactivated as shown in figure 3.
+										Next, the short circuit is removed and the independent source is deactivated as shown in figure 3.
 									</p>
 									<br><figure style="text-align:center">
 									  <img alt="" src="./image/pic3.jpg" style="width:400px;height:350px;">
