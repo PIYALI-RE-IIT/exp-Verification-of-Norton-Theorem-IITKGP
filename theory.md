@@ -7,8 +7,8 @@ A linear active network consisting of independent and(or) dependent voltage and 
 									</p>
 									<!-- <h2><span style="background-color: rgb(255, 255, 255);">Circuit diagram:</span></h2><br> -->
 									<br><figure style="text-align:center">
-									  <img alt="" src="./image/pic2.jpg" style="width:400px;height:350px;">
-									  <figcaption>[Fig 1: Circuit with source \(V_S\) and Load \(R_L\)]</figcaption>
+									  <img alt="" src="./image/pic1.jpg" style="width:400px;height:350px;">
+									  <figcaption>[Fig 1: Circuit with source V<sub>S</sub> and Load R<sub>L</sub>]</figcaption>
 									</figure>
 									
 									<figure style="text-align:center">
