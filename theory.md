@@ -11,10 +11,10 @@ A linear active network consisting of independent and(or) dependent voltage and 
 									  <figcaption>[Fig 1: Circuit with source \(V_S\) and Load \(R_L\)]</figcaption>
 									</figure>
 									
-									<br><figure style="text-align:center">
+									<figure style="text-align:center">
 									  <img alt="" src="./image/pic2.jpg" style="width:400px;height:350px;">
 									  <figcaption>[Fig 2: Circuit with \(R_L\) shorted]</figcaption>
-									</figure><br>
+									</figure>
 									  
 									<p>Obviously, in Fig 2;
 										\begin{align}
