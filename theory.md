@@ -2,10 +2,10 @@
 A linear active network consisting of independent and(or) dependent voltage and current sources and linear bilateral network elements 
 									can be replaced by an equivalent circuit consisting of current sources in parallel with the resistance, the current source being the short 
 									circuited current across the load terminal and resistance being the internal resistance of the source network looking through the open 
-									circuited load terminals. In order to find the current through \(R_L\), the load resistance of the figure 1 by Norton's theorem, let, 
-									replace \(R_L\) by short circuit as shown in figure 2.
+									circuited load terminals. In order to find the current through<b>R<sub>L</sub></b>, the load resistance of the figure 1 by Norton's theorem, let, 
+									replace <b>R<sub>L</sub></b> by short circuit as shown in figure 2.
 									</p>
-									<!-- <h2><span style="background-color: rgb(255, 255, 255);">Circuit diagram:</span></h2><br> -->
+									
 									<br><figure style="text-align:center">
 									  <img alt="" src="./image/pic1.jpg" style="width:400px;height:350px;">
 									  <figcaption>[Fig 1: Circuit with source \(V_S\) and Load \(R_L\)]</figcaption>
