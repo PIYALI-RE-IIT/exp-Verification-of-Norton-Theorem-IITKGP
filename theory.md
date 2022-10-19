@@ -16,8 +16,10 @@ A linear active network consisting of independent and(or) dependent voltage and 
 									</figure>
 							 <p>Obviously, in Fig 2;
 										\begin{align}
-										$$I & = \frac{V_s}{R_1+\frac{R_2 * R_3}{R_2 + R_3}} \\ \\
-										I_{s/c} & = I * \frac{R_3}{R_3 + R_2}$$
+								        $$
+                                         I & = \frac{V_s}{R_1+\frac{R_2 * R_3}{R_2 + R_3}} \\ \\
+										I_{s/c} & = I * \frac{R_3}{R_3 + R_2}
+                                         $$
 										\end{align}
 										<br>
 										Next, the short circuit is removed and the independent source is deactivated as shown in figure 3.</p>
