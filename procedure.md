@@ -8,26 +8,29 @@
                                     <br>
 								<ol type="1">
                                 <li>Keep all the resistance close to their maximum respective values.</li>
-								<li>Close the switch s<sub>1</sub> to "aa" and s<sub>2</sub> to "cc" positions. Observes the load current I<sub>L</sub> and voltage V<sub>L</sub> readings. The load resistance,vl = il/(r1+r2)
-										\begin{align}
-										R_{L} & = \frac{V_{L}}{I_{L}} 
-										\end{align}<br>
-									</li> 
-									<li>Short the load terminals and find the short circuited current(\(I_{sc}\)).</li>
-									<li>Next, compute the resistance (\(R_{int}\)) of the network as seen from the load terminals, 
+								<li>Close the switch s<sub>1</sub> to "aa" and s<sub>2</sub> to "cc" positions. Observes the load current I<sub>L</sub> and voltage V<sub>L</sub> readings. The load resistance,
+                                <br>	
+                                R<sub>L</sub> = V<sub>L</sub> / I<sub>L</sub>								
+                                </li> 
+								<li>Short the load terminals and find the short circuited current 
+                                I<sub>sc</sub>.</li>
+							   <li>Next, compute the resistance R<sub>int</sub> of the network as seen from the load terminals, 
 									<ul>
-										<li>Replace the 220 V source by a short by closing \(s_1\) to "bb".</li>
-										<li>Apply V=110 V at the output terminals by closing \(s_2\) to "dd". Read the current from ammeter (I) and get
-										\begin{align}
-										R_{int} & = \frac{V}{I} 
-										\end{align}</li>
-									</ul></li>
-									<li>Now compute the load current (\(I_L\)) applying Norton theorem.
+									<li>Replace the 220 V source by a short by closing s<sub>1</sub> to "bb".
+                                    </li>
+									<li>Apply V=110 V at the output terminals by closing s<sub>2</sub> to "dd". Read the current from ammeter (I) and get
+									R<sub>int</sub> = V/I </li>
+									</ul>
+                                    </li>
+									<li>Now compute the load current I<sub>L</sub> applying Norton theorem.
 									\begin{align}
 									I_L & = I_{sc}*\frac{R_{int}}{(R_{int}+R_L)} 
 									\end{align}
 									</li>
 									<li>Compare the above computed load current with its observed value in step (2) and verify the theorem.</li>
-								</ol><br><br><br>
+								</ol>
+                                <br>
+                                <br>
+                                <br>
 							</p>                                
                         </div>
