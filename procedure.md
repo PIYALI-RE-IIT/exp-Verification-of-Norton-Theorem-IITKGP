@@ -3,12 +3,12 @@
                             <p>
 								<br><figure style="text-align:center">
 									  <img alt="" src="./image/pic5.JPG" height="335" width="712">
-									  <figcaption>[Fig 1: Circuit diagram for Experimental set up]</figcaption>
-								</figure><br>
-								<p></p>
+								<br><figcaption>[Fig 1: Circuit diagram for Experimental set up]</figcaption>
+								    </figure>
+                                    <br>
 								<ol type="1">
                                 <li>Keep all the resistance close to their maximum respective values.</li>
-								<li>Close the switch s<sub>1</sub> to "aa" and s<sub>2</sub> to "cc" positions. Observes the load current I<sub>L</sub> and voltage (\(V_L\)) readings. The load resistance,
+								<li>Close the switch s<sub>1</sub> to "aa" and s<sub>2</sub> to "cc" positions. Observes the load current I<sub>L</sub> and voltage V<sub>L</sub> readings. The load resistance,vl = il/(r1+r2)
 										\begin{align}
 										R_{L} & = \frac{V_{L}}{I_{L}} 
 										\end{align}<br>
