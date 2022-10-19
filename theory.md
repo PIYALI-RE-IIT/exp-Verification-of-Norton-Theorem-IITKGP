@@ -13,7 +13,7 @@ A linear active network consisting of independent and(or) dependent voltage and 
 									
 									<figure style="text-align:center">
 									  <img alt="" src="./image/pic2.jpg" style="width:400px;height:350px;">
-									  <figcaption>[Fig 2: Circuit with \(R_L\) shorted]</figcaption>
+									  <figcaption>[Fig 2: Circuit with <b>R<sub>L</sub></b> shorted]</figcaption>
 									</figure>
 									  
 									<p>Obviously, in Fig 2;
