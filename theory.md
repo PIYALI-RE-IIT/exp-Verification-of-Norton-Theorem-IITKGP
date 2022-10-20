@@ -17,10 +17,9 @@ Next, the short circuit is removed and the independent source is deactivated as 
 <br><figure style="text-align:center">
 <img alt="" src="images/pic3.jpg" style="width:400px;height:350px;">
 <figcaption>
-[Fig 3: Circuit with source $$(V_S)$$ deactivated and Load $$(R_L)$$ open]
+[Fig 3: Circuit with source V<sub>s</sub> deactivated and Load R<sub>L</sub> open]
 </figcaption>
-</figure>
-<br><p>From Fig 3;
+</figure><p>From Fig 3;
 $$R_{int}= R_2+ \frac{R_1*R_3}{R_1+R_3}$$
 <br>
 As per Norton's theorem , the equivalent circuit as shown in figure 4, would contain a current source in parallel to the internal resistance, the current source being the short circuited current across the shorted terminals of the load resistor.</p>
@@ -28,8 +27,7 @@ As per Norton's theorem , the equivalent circuit as shown in figure 4, would con
 <img alt="" src="images/pic4.jpg" style="width:400px;height:350px;">
 <figcaption>[Fig 4: Norton equivalent circuit]
 </figcaption>
-</figure>
-<br>									
+</figure>									
 <p>Obviously, from Fig 4;<br>
 $$I_{L}= I_{s/c}\frac{R_{int}}{R_{int}+R_L}$$
 </p><br><br><br>
