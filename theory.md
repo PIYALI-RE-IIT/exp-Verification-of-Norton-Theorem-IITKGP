@@ -11,8 +11,8 @@
 </figcaption>
 </figure>
 <p>Obviously, in Fig 2;
-$$I=\frac{V_s}{R_1+\frac{R_2 * R_3}{R_2 + R_3}}
-I_{s/c}= I\frac{R_3}{R_3 + R_2}$$<br>
+$$I=\frac{V_s}{R_1+\frac{R_2 * R_3}{R_2 + R_3}}$$ <br>
+$$I_{s/c}= I\frac{R_3}{R_3 + R_2}$$<br>
 Next, the short circuit is removed and the independent source is deactivated as shown in figure 3.</p>
 <br><figure style="text-align:center">
 <img alt="" src="images/pic3.jpg" style="width:400px;height:350px;">
