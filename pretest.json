@@ -10,8 +10,10 @@
         "d": "Neither open circuit nor short circuit current"
       },
       "explanations": {
-        "a": "Norton current is obtained by shorting the specified terminals. So, it is the short circuit current. It is not the open circuit current because if specified terminals get open circuited then current is equal to zero."
-        
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -25,8 +27,10 @@
         "d": "Opening all voltage sources and shorting all current sources"
       },
       "explanations": {
-        "c": "Ideal current sources have infinite internal resistance hence behave like an open circuit whereas ideal voltage sources have zero internal resistances hence behave as a short circuit. So, to obtain Norton resistance, all voltage sources are shorted and all current sources are opened."
-        
+        "a": "You have chosen the wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen correct answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -40,8 +44,10 @@
         "d": "Neither linear networks nor non-linear networks"
       },
       "explanations": {
-        "a": "Norton’s theorem works for only linear circuit elements and not non-linear ones such as BJT, semiconductors etc."
-        
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
