@@ -1,7 +1,7 @@
 ## Introduction
 
 <div align="center">
-<img src="image/iitkgp.png" width="10%">
+<img src="images/iitkgp.png" width="10%">
 </div>
 
   <b>Discipline | <b> Electrical Engineering 
@@ -9,10 +9,6 @@
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
 <b> Experiment|     <b> **Verification of Norton Theorem and Experiment 1**
 
-
-### About the Experiment 
-
-<!--Fill a brief description of this experiment here-->
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
 :--|:--|
