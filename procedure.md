@@ -22,12 +22,9 @@
 									R<sub>int</sub> = V/I </li>
 									</ul>
                                     </li>
-									<li>Now compute the load current I<sub>L</sub> applying Norton theorem.
-									
-									 $$ I_L & = I_{sc}*\frac{R_{int}}{(R_{int}+R_L)} $$ 
-									
-									</li>
-									<li>Compare the above computed load current with its observed value in step (2) and verify the theorem.</li>
+									<li>Now compute the load current I<sub>L</sub> applying Norton theorem.	
+							 $$ I_L & = I_{sc}*\frac{R_{int}}{(R_{int}+R_L)} $$ </li>
+								<li>Compare the above computed load current with its observed value in step (2) and verify the theorem.</li>
 								</ol>
                                 <br>
                                 <br>
