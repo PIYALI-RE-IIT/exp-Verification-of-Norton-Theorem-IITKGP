@@ -2,7 +2,7 @@
 <div class="content" id="experiment-article-section-2-content">                            
                             <p>
 								<br><figure style="text-align:center">
-									  <img alt="" src="./image/pic5.JPG" height="335" width="712">
+									  <img alt="" src="images/pic5.JPG" height="335" width="712">
 								<br><figcaption>[Fig 1: Circuit diagram for Experimental set up]</figcaption>
 								    </figure>
                                     <br>
