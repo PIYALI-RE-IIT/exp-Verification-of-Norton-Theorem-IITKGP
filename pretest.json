@@ -2,38 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Norton current is the_______",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Short circuit current",
+        "b": "Open circuit current",
+        "c": "Open circuit and short circuit current",
+        "d": "Neither open circuit nor short circuit current"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Norton current is obtained by shorting the specified terminals. So, it is the short circuit current. It is not the open circuit current because if specified terminals get open circuited then current is equal to zero."
+        
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Norton resistance is found by?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shorting all voltage sources",
+        "b": "Opening all current sources",
+        "c": "Shorting all voltage sources and opening all current sources",
+        "d": "Opening all voltage sources and shorting all current sources"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Ideal current sources have infinite internal resistance hence behave like an open circuit whereas ideal voltage sources have zero internal resistances hence behave as a short circuit. So, to obtain Norton resistance, all voltage sources are shorted and all current sources are opened."
+        
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Norton’s theorem is true for __________",
+      "answers": {
+        "a": "Linear networks",
+        "b": "Non-Linear networks",
+        "c": "Both linear networks and nonlinear networks",
+        "d": "Neither linear networks nor non-linear networks"
+      },
+      "explanations": {
+        "a": "Norton’s theorem works for only linear circuit elements and not non-linear ones such as BJT, semiconductors etc."
+        
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
+
+
   ]
 }
