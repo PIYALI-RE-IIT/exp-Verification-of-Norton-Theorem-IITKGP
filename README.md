@@ -1,7 +1,7 @@
 ## Introduction
 
 <div align="center">
-<img src="images/iitkgp.png" width="10%">
+<img src="image/iitkgp.png" width="10%">
 </div>
 
   <b>Discipline | <b> Electrical Engineering 
