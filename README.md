@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Norton Theorem and Experiment 1**
+<b> Experiment|     <b> **Verification of Norton Theorem and section A Experiment 1**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
