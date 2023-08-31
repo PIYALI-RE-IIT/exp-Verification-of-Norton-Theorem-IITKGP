@@ -1,4 +1,4 @@
-## Introduction
+## Intro
 
 <div align="center">
 <img src="experiment/images/iitkgp.png" width="10%">
